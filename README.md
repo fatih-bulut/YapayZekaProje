@@ -1,5 +1,5 @@
 
-# Laboratuvar Numune Karışımı Optimizasyonu (Senaryo 7)
+# Laboratuvar Numune Karışımı Optimizasyonu 
 
 Bu proje, bir biyoteknoloji firması için en verimli test çözeltisini oluşturmak amacıyla **Genetik Algoritma (Genetic Algorithm)** kullanarak reaktif oranlarını optimize eden bir yapay zeka uygulamasıdır.
 
